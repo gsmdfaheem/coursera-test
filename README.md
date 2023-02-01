@@ -1,2 +1,2 @@
 # coursera-test
-HTML,CSS,JavaScript
+HTML,CSS,JavaScript for Web Developers
